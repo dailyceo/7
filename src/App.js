@@ -306,20 +306,10 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              MAX SUPPLY: {CONFIG.MAX_SUPPLY}
+              {data.totalSupply}/{CONFIG.MAX_SUPPLY}
             </s.TextTitle>
 
 
-            <s.TextTitle
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              Loli MINTED: {data.totalSupply}
-            </s.TextTitle>
 
 
             <s.TextTitle
