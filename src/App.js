@@ -106,7 +106,7 @@ function App() {
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
   const [feedback, setFeedback] = useState(`Click to mint your Loli.`);
-  const [mintAmount, setMintAmount] = useState(1);
+  const [mintAmount, setMintAmount] = useState(2);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
     SCAN_LINK: "",
@@ -130,7 +130,7 @@ function App() {
     let cost = CONFIG.WEI_COST;
     let gasLimit = CONFIG.GAS_LIMIT;
     let totalCostWei = String(cost * mintAmount);
-    let totalGasLimit = String(160000);
+    let totalGasLimit = String(130000);
     console.log("Cost: ", totalCostWei);
     console.log("Gas limit: ", totalGasLimit);
     setFeedback(`Minting your ${CONFIG.NFT_NAME}...`);
@@ -269,7 +269,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Public Mint Mar 25, 1:00 PM ET
+              Public Mint Mar 25, 1:00 PM ET/ 5PM UTC
             </s.TextDescription>
             <s.SpacerLarge />
 
