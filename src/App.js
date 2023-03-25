@@ -576,9 +576,9 @@ function App() {
               }}
             >
               Loli is about to take you on an exciting journey like no other! In just 24 hours after the public mint, get ready to join the first game - Loli Points.
-              This is your chance to compete against other Loli owners and claim a spot in an Ethereum block that's farthest away from the blocks claimed by other players.
+              This is your chance to compete with other Loli owners to claim a spot in an Ethereum block that's farthest away from the blocks claimed by other players.
               But be warned - strategy, timing, and a bit of luck are crucial in this game. To gain this crucial advantage, keep your eyes on the 'LAST CLAIM' tracker on our webpage.
-              Are you ready to step up to the and shape the ultimate form of your Loli?
+              Are you ready to step up to the challenge and shape the ultimate form of your Loli?
             </s.TextDescription>
             <s.SpacerLarge />
             <s.SpacerLarge />
