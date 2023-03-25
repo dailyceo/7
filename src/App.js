@@ -269,30 +269,14 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Arriving on March 25, 1:00 PM ET/ 5PM UTC
+              Loli is here! MINT OPEN
             </s.TextDescription>
             <s.SpacerLarge />
 
 
 
 
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              {truncate(
-                new Date(timeRemaining).toLocaleString("en-GB", {
-                  hour: "numeric",
-                  minute: "numeric",
-                  second: "numeric",
-                }),
-                10
-              )}
-            </s.TextDescription>
+
 
 
 
