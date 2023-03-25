@@ -315,8 +315,8 @@ function App() {
             <s.TextTitle
               style={{ textAlign: "center", color: "var(--primary)", fontSize: 40 }}
             >
-              Price: {CONFIG.DISPLAY_COST}{" "}
-              {CONFIG.NETWORK.SYMBOL}
+              {CONFIG.DISPLAY_COST}{" "}
+              {CONFIG.NETWORK.SYMBOL} / LOLI
             </s.TextTitle>
 
 
