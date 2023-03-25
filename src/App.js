@@ -483,16 +483,6 @@ function App() {
             </StyledButton>
 
 
-            <StyledButton
-              style={{
-                margin: "5px",
-              }}
-              onClick={(e) => {
-                window.open(CONFIG.SCAN_LINK, "_blank");
-              }}
-            >
-              Etherscan
-            </StyledButton>
 
             <s.SpacerLarge />
             <s.SpacerLarge />
