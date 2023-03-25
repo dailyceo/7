@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x07AF4A84Bbcc37beFD0696306fa93e51bF9c214e",
+  "SCAN_LINK": "https://etherscan.io/0x07AF4A84Bbcc37beFD0696306fa93e51bF9c214e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Tengoko Warriors",
+  "SYMBOL": "TENGOKO",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 99900000000000000,
+  "DISPLAY_COST": 0.09990000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lolikawaii",
+  "SHOW_BACKGROUND": true
+}
